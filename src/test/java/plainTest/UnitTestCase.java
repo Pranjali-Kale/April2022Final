@@ -35,6 +35,7 @@ public class UnitTestCase
 		
 		//click on my profile
 		//obj.findElementByXPath("//*[@class='_3vhnxf']").click();
+	    //adding command to check github
 	}
 
 }
